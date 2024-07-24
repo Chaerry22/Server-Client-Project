@@ -1,8 +1,4 @@
-## By Daniel Chae
-## 4/18/2024
-## CS 232
-## Caesar Server
-###########################################
+
 import socket
 import sys
 import threading
